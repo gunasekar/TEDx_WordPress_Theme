@@ -20,15 +20,6 @@ The TEDx Wordpress Theme is a starting WordPress theme made for TEDx organizers 
 * `wp_head` has been cleaned up along with the output of enqueued styles and scripts
 * Robots.txt optimized for SEO
 
-### Theme Options
-* Incomplete
-
-## Contributing
-
-## Project information
-
-## License
-
 ### Major components:
 
 * HTML5 Boilerplate: The Unlicense
@@ -36,6 +27,10 @@ The TEDx Wordpress Theme is a starting WordPress theme made for TEDx organizers 
 * jQuery: MIT/GPL license
 * Normalize.css: Public Domain
 * Foundation: MIT license
+
+### Easy to edit
+
+* Helper Images and their XCF format makes users easily edit them using GIMP (/img/helpers/)
 
 ### Everything else:
 
