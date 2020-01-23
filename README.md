@@ -2,9 +2,6 @@
 
 The TEDx Wordpress Theme is a WordPress theme made for TEDx organizers that’s based on the [Roots Wordpress Theme](http://www.rootstheme.com/), [HTML5 Boilerplate](http://html5boilerplate.com/), and one of the best CSS frameworks, [Foundation](http://foundation.zurb.com/).
 
-## Created for
-TEDxGCT - www.tedxgct.com
-
 ## Quick start
 
 * Clone the git repo or download it
